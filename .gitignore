@@ -1,0 +1,7 @@
+/target
+/project/target
+/.idea
+/core/target
+/nonReaderMonadExample/target
+/readerMonadTFutureWithOptionExample/target
+/readerMonadExample/target
